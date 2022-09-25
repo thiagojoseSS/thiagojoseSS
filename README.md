@@ -26,5 +26,5 @@
   <img width=70em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  </div>
 
-  
-![Snake animation](https://github.com/thiagojoseSS/thiagojoseSS/blob/fab60cd87f096b45ba13fa7743b98549e791681e/.github/workflows/cobrinha.yml)
+
+![generate animation](https://github.com/thiagojoseSS/thiagojoseSS/actions/workflows/cobrinha.yml/badge.svg)
