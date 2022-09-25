@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/thiagojoseSS">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=thiagojoseSS&count_private=true&show_icons=true&theme=dark&text_color=00FF00">
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojoseSS&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=dark&text_color=00FF00">
+  <img height=180em width=350em src="https://github-readme-stats.vercel.app/api?username=thiagojoseSS&count_private=true&show_icons=true&theme=dark&text_color=00FF00">
+  <img height=180em width=350em src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojoseSS&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=dark&text_color=00FF00">
 </div>
   
 ##
@@ -27,4 +27,4 @@
  </div>
 
   
-  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/thiagojoseSS/thiagojoseSS/blob/fab60cd87f096b45ba13fa7743b98549e791681e/.github/workflows/cobrinha.yml)
