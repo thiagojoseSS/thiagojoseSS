@@ -1,7 +1,7 @@
 ### Hi! I am Thiago José 😁❗
 
 - 🔭 I’m currently working on **RPA - Robotic Process Automation**
-- 🌱 I’m currently learning **Full Stack: PHP8, HTML5, CSS3, LARAVEL, COMPOSER, JavaScript, MySQL and others. The goal *AWS Certified Cloud Practitioner* . **
+- 🌱 I’m currently learning **Full Stack: PHP8, HTML5, CSS3, LARAVEL, COMPOSER, JavaScript, MySQL and others. The goal *AWS Certified Cloud Practitioner*.**
 - 😄 Pronouns: he/his
 
 ##
@@ -27,5 +27,3 @@
   <img width=70em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  </div>
 
-
-[![Snake animation](https://github.com/thiagojoseSS/thiagojoseSS/actions/workflows/cobrinha.yml/badge.svg?branch=main)](https://github.com/thiagojoseSS/thiagojoseSS/actions/workflows/cobrinha.yml)
