@@ -1,8 +1,9 @@
 ### Hi! I am Thiago José 😁❗
 
 - 🔭 I’m currently working on **RPA - Robotic Process Automation**
-- 🌱 I’m currently learning **Full Stack: PHP8, HTML5, CSS3, LARAVEL, COMPOSER, JavaScript, MySQL and others. The goal *AWS Certified Cloud Practitioner*. **
+- 🌱 I’m currently learning **Full Stack: PHP8, HTML5, CSS3, LARAVEL, COMPOSER, JavaScript, MySQL and others. The goal *AWS Certified Cloud Practitioner* . **
 - 😄 Pronouns: he/his
+
 ##
 
 <div>
