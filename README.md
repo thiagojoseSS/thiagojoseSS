@@ -27,4 +27,4 @@
  </div>
 
 
-![generate animation](https://github.com/thiagojoseSS/thiagojoseSS/actions/workflows/cobrinha.yml/badge.svg)
+[![generate animation](https://github.com/thiagojoseSS/thiagojoseSS/actions/workflows/cobrinha.yml/badge.svg?branch=main)](https://github.com/thiagojoseSS/thiagojoseSS/actions/workflows/cobrinha.yml)
