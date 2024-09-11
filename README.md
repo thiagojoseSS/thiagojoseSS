@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on **WEB Developer Junior**
 - 🌱 I’m currently learning **Desenvolvedor Web Júnior | PHP | Laravel | JavaScript | HTML | CSS | Git | Python | SQL | RPA | Usabilidade. The goal *AWS Certified Cloud Practitioner*.**
-- 😄 Pronouns: he/his
 
 ### My links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th-jose/)
