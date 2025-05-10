@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Thiago José
 
-🎯 Developer Full Stack
+🎯 Full Stack Developer
 🌱 Learning daily
 
 ---
