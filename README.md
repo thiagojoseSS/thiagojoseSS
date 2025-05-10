@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Thiago José
 
-🎯 Junior Web Developer   
-🌱 Learning daily | AWS Cloud Practitioner in progress
+🎯 Developer Full Stack
+🌱 Learning daily
 
 ---
 
