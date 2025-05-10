@@ -58,11 +58,11 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats |
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojosess&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=thiagojosess&theme=tokyonight&mode=weekly)
 
-## 🐍 GitHub Snake |
+## 🐍 GitHub Snake
 
 ![github-snake](https://github.com/thiagojoseSS/thiagojoseSS/raw/output/github-contribution-grid-snake-dark.svg)
